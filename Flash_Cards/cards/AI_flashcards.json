@@ -1,0 +1,42 @@
+[
+    {
+        "description": "What is the time complexity of quicksort in the average case?",
+        "abbreviation": "O(n"
+    },
+    {
+        "description": "What is the difference between a stack and a queue?",
+        "abbreviation": "Stack: LIFO, Queue: FIFO"
+    },
+    {
+        "description": "What are the four principles of Object-Oriented Programming (OOP)?",
+        "abbreviation": "Encapsulation, Abstraction, Inheritance, Polymorphism"
+    },
+    {
+        "description": "What is the purpose of a hash function in a hash table?",
+        "abbreviation": "To map keys to index locations for efficient lookup"
+    },
+    {
+        "description": "What is the difference between synchronous and asynchronous programming?",
+        "abbreviation": "Sync: Blocking, Async: Non-blocking"
+    },
+    {
+        "description": "Explain the concept of a deadlock in concurrent programming.",
+        "abbreviation": "A situation where two or more threads are waiting for each other to release resources"
+    },
+    {
+        "description": "What is a RESTful API?",
+        "abbreviation": "An API that follows REST principles for communication over HTTP"
+    },
+    {
+        "description": "What is the Big O notation used for?",
+        "abbreviation": "To describe the efficiency of an algorithm in terms of time and space complexity"
+    },
+    {
+        "description": "What is a binary search tree (BST)?",
+        "abbreviation": "A tree where each node has at most two children and left < root < right"
+    },
+    {
+        "description": "Explain the difference between deep copy and shallow copy.",
+        "abbreviation": "Deep Copy: Copies all nested objects; Shallow Copy: References the same objects"
+    }
+]
